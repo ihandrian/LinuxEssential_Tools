@@ -25,7 +25,7 @@ Here's a quick rundown :
 chmod +x Linux_tools.sh
 ```
 
-2. Run the provided script:
+2. Run the script:
 
 ```shellscript
 ./Linux_tools.sh
