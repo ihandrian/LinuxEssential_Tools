@@ -1,5 +1,5 @@
 # LinuxEssential_Tools
-Simple tool for essential package in Linux,created based on personal preference. You can change as your preference.
+I'm just being lazy for installing essential package in Linux, this created based on personal preference. You can change as your preference.
 
 Here's a quick rundown :
 
