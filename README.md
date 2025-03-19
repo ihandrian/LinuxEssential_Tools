@@ -1,5 +1,5 @@
 # LinuxEssential_Tools
-I'm just being lazy for installing essential package in Linux, this created based on personal preference. You can change as your preference.
+I'm just being lazy for installing essential package in Linux ye functional. I create this  based on personal preference. You can change as your need.
 
 Here's a quick rundown :
 
