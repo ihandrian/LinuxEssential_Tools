@@ -42,9 +42,6 @@ sudo apt install -y bat || sudo apt install -y batcat
 check_command "bat"
 sudo ln -s /usr/bin/batcat /usr/bin/bat  # Compatibility with command name
 
-# Install exa
-echo "Installing exa..."
-sudo apt install -y exa || echo "exa may not be available in default repositories."
 
 # Install ranger
 echo "Installing ranger..."
