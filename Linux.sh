@@ -42,7 +42,6 @@ sudo apt install -y bat || sudo apt install -y batcat
 check_command "bat"
 sudo ln -s /usr/bin/batcat /usr/bin/bat  # Compatibility with command name
 
-
 # Install ranger
 echo "Installing ranger..."
 sudo apt install -y ranger
