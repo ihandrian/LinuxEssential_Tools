@@ -8,7 +8,6 @@ Here's a quick rundown :
 - **MC (Midnight Commander)**: A text-based file manager.
 - **tldr**: Simplified and community-driven man pages.
 - **bat**: A cat command clone with syntax highlighting and Git integration.
-- **exa**: A modern replacement for the `ls` command.
 - **ranger**: A text-based file manager with VI key bindings.
 - **ncdu**: A disk usage analyzer with an ncurses interface.
 - **lsd**: A modern replacement for the `ls` command with more features.
