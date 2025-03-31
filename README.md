@@ -22,11 +22,11 @@ Here's a quick rundown :
 1. Run this command:
 
 ```shellscript
-chmod +x Linux_tools.sh
+chmod +x Linux.sh
 ```
 
 2. Run the script:
 
 ```shellscript
-./Linux_tools.sh
+./Linux.sh
 ```
